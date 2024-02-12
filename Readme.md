@@ -11,7 +11,7 @@ Welcome to my GitHub repository documenting my data science journey! This reposi
 - **Datasets**: Various datasets used for assignments and practice, ranging from customer segmentation to breast cancer data.
 
 ## Key Projects and Notebooks
-- `Assignment_1__6110_sreekanth_220088993_20230520.ipynb`: An in-depth assignment covering [specific topics].
+- `Assignment_1__6110_sreekanth_220088993_20230520.ipynb`: An in-depth assignment covering Data cleaning, EDA methods & initial analysis required for any Data scientist professional.
 - `Midterm_MBAN-6110-DS1_sreekanth_220088993.ipynb`: My work for the midterm examination.
 - `Pandas_Demo_with_CSV.ipynb`: Demonstrations of using Pandas for data manipulation.
 - `youtube_Exploratory Data Analysis with Pandas.ipynb`: Exploratory data analysis on YouTube dataset.
